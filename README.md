@@ -56,5 +56,4 @@ L'objectif de ce repository est de démontrer ma capacité à :
 2. Écrire un code propre, documenté et optimisé.
 3. Comprendre les mécanismes internes de gestion de la mémoire.
 
----
-📫 **Contactez-moi sur [LinkedIn](www.linkedin.com/in/raoul-biga-3a5592324) pour échanger sur le développement !**
+**Contactez-moi sur [LinkedIn](www.linkedin.com/in/raoul-biga-3a5592324) pour échanger sur le développement !**
