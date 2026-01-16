@@ -16,9 +16,10 @@ def systeme_alarme():
         tentatives += 1
         
         if code_saisi != code_secret:
-            print(f"❌ Code incorrect. (Tentative n°{tentatives})")
+            print(f"Code incorrect. (Tentative n°{tentatives})")
 
-    print(f"✅ Code correct ! Alarme désactivée après {tentatives} tentative(s).")
+    print(f"Code correct ! Alarme désactivée après {tentatives} tentative(s).")
 
 if __name__ == "__main__":
+
     systeme_alarme()
